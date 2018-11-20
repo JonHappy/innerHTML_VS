@@ -1,1 +1,2 @@
-# innerHTML_VS.github.io
+# innerHTML_VS остальные методы  :)
+серверный рендеринг VS ...
